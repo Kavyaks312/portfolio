@@ -1,0 +1,7 @@
+Day 1: 06/02/2025
+
+Learn: How to create Git repository and basic Git commands.
+Implement: Created 1 html file and 1 css file and pushed into Github.
+Challenges: Nil
+
+---commit
