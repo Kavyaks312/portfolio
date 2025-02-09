@@ -5,3 +5,10 @@ Implement: Created 1 html file and 1 css file and pushed into Github.
 Challenges: Nil
 
 ---commit
+
+Day 2: 07/02/2025
+Learn: To create portfolio hompage.
+Implement: Created personal portfolio hompage including persona details, education, experiance and skills.
+Challanges: Nil
+
+---commit
